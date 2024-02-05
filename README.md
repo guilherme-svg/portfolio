@@ -10,5 +10,3 @@ I currently use:
 I'm also studying web front end development, self-taught, and I try to help projects here on GitHub that demand something related to my skills.
 
 In my design portfolio there are projects that I developed for external clients and some open source projects that I contribute.
-
-This README was made with [Stack Edit](https://stackedit.io/)
